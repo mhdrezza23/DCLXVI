@@ -22,11 +22,18 @@ from userbot.events import register
 
 # ========================= CONSTANTS ============================
 UNAPPROVED_MSG = (
-    "`HeY! This is an automated message.\n\n`"
-    "`I haven't approved you to PM yet.`"
-    "`Please wait for me to look in, I mostly approve PMs.\n\n`"
-    "`Until then, please don't spam my Mastor's PM, you'll get blocked and reported if you do so!`"
-)
+"**-EN**\n"
+    "`Sorry, seems I haven't approved you to PM yet.\n`"
+    "`Please wait for me to look in.\n`"
+    "`Until then, please don't spam My PM...\n`"
+    "`Thank You\n\n`"
+    "`*This is an automated message.\n`"
+    "\n**-ID**\n"
+    "`Maaf, Kamu Sepertinya belum diijinkan mengirim pesan.\n`"
+    "`Tunggu saja sampai aku melihat pesanmu.\n`"
+    "`Sembari menunggu jangan spam pesan...\n`"
+    "`Thank You`\n\n`"
+    "`Aku **Bot** :D.\n")
 # =================================================================
 
 
